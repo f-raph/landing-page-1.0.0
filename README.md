@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-This is my personal portfolio showcasing some of my projects, skills, and experience. It's very basic, but future updates are on the way.
+This is my previous personal portfolio showcasing some of my projects, skills, and experience. It's very basic, but future updates are on the way.
 
 ## Technologies Used
 
@@ -10,5 +10,5 @@ This is my personal portfolio showcasing some of my projects, skills, and experi
 
 ## How to Run Locally
 
-1. Clone this repository: `git clone https://github.com/f-raph/raph-landing-page.git`
+1. Clone this repository: `git clone https://github.com/f-raph/landing-page-1.0.0.git`
 2. Open `index.html` in your browser.
